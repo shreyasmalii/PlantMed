@@ -1,0 +1,53 @@
+description: Ultralytics best model trained on /content/data_2-3/data.yaml
+author: Ultralytics
+date: '2024-04-27T13:56:58.526877'
+version: 8.2.3
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 320
+- 320
+names:
+  0: Aloevera
+  1: Amruthaballi
+  2: Arali
+  3: Arive-Dantu
+  4: Artocarpus Heterophyllus -Jackfruit-
+  5: Azadirachta Indica -Neem-
+  6: Basella Alba -Basale-
+  7: Beans
+  8: Betel
+  9: Bhrami
+  10: Carissa Carandas -Karanda-
+  11: Castor
+  12: Chakte
+  13: Citron lime -herelikai-
+  14: Citrus Limon -Lemon-
+  15: Coriender
+  16: Crown flower
+  17: Ekka
+  18: Eucalyptus
+  19: Ficus Auriculata -Roxburgh fig-
+  20: Ficus Religiosa -Peepal Tree-
+  21: Hibiscus
+  22: Indian Sarsaparilla
+  23: Indian Thornapple
+  24: Insulin
+  25: Ivy Gourd
+  26: Jasminum -Jasmine-
+  27: Kambajala
+  28: Mangifera Indica -Mango-
+  29: Mentha -Mint-
+  30: Moringa Oleifera -Drumstick-
+  31: Muntingia Calabura -Jamaica Cherry-Gasagase-
+  32: Murraya Koenigii -Curry-
+  33: Piper Betle -Betel-
+  34: Pongamia Pinnata -Indian Beech-
+  35: Psidium Guajava -Guava-
+  36: Santalum Album -Sandalwood-
+  37: Tamarind
+  38: Tulsi
+  39: ashoka
